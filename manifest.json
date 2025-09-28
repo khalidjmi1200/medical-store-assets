@@ -1,0 +1,14 @@
+{
+  "brands": {
+    "cipla": "brands/cipla.svg",
+    "mankind-pharma": "brands/mankind-pharma.svg",
+    "sun-pharma": "brands/sun-pharma.svg",
+    "lupin": "brands/lupin.svg",
+    "zydus-cadila": "brands/zydus-cadila.svg",
+    "abbott": "brands/abbott.svg",
+    "intas-pharma": "brands/intas-pharma.svg",
+    "cadila-healthcare": "brands/cadila-healthcare.svg",
+    "elder-pharma": "brands/elder-pharma.svg",
+    "torrent-pharma": "brands/torrent-pharma.svg"
+  }
+}
